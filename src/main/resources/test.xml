@@ -1,0 +1,44 @@
+<Record>
+    <Person id="9591" action="add">
+        <Gender>Male</Gender>
+        <NameDetails>
+            <Name NameType="Primary Name">
+                <NameValue>
+                    <FirstName>Prath</FirstName>
+                    <LastName>Padval</LastName>
+                </NameValue>
+            </Name>
+            <Name NameType="Also known as">
+                <NameValue>
+                    <FirstName>Prath</FirstName>
+                    <MiddleName>Sandeep</MiddleName>
+                    <LastName>Padval</LastName>
+                </NameValue>
+            </Name>
+        </NameDetails>
+        <BirthPlace>
+            <Place name="Murud" />
+        </BirthPlace>
+    </Person>
+    <Person id="9592" action="update">
+        <Gender>Male</Gender>
+        <NameDetails>
+            <Name NameType="Primary Name">
+                <NameValue>
+                    <FirstName>Prath</FirstName>
+                    <LastName>Padval</LastName>
+                </NameValue>
+            </Name>
+            <Name NameType="Also known as">
+                <NameValue>
+                    <FirstName>Prath</FirstName>
+                    <MiddleName>Sandeep</MiddleName>
+                    <LastName>Padval</LastName>
+                </NameValue>
+            </Name>
+        </NameDetails>
+        <BirthPlace>
+            <Place name="Murud" />
+        </BirthPlace>
+    </Person>
+</Record>
